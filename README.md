@@ -40,5 +40,5 @@ Created a clean snapshot named **"fresh install"**. This is a crucial step in pe
 * **Lab Hygiene:** The importance of snapshots for safe, repeatable penetration testing.
 
 ---
-*Created as part of the Networkwalks Cybersecurity Internship (Batch B082).*
+*Created as part of the Networkwalks Cybersecurity Internship (Batch B084).*
 *Special thanks to Sir Waqas Karim (CCIE) and the NETWORKWALKS team.*
