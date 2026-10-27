@@ -36,7 +36,6 @@ Created a clean snapshot named **"fresh install"**. This is a crucial step in pe
 ![VirtualBox Installation](https://github.com/Ziad-1047/Networkwalks-Week1-Lab-B048E-/blob/main/7_snapshot.png)
 
 ## 🧠 Key Learnings
-* **Virtualization:** Understanding how hypervisors manage hardware resources.
 * **Networking:** The difference between standard NAT and NAT Network in VirtualBox, IP configuration, and gateway routing.
 * **Lab Hygiene:** The importance of snapshots for safe, repeatable penetration testing.
 
